@@ -1,0 +1,8 @@
+# Start Flask server in one terminal
+python3 server.py
+
+# In another terminal, run client
+python3 client.py
+
+# View results
+cat logs.txt | head
